@@ -3,9 +3,12 @@
 
 # Hi! I'm Natalie ≽(-⩊-マ≼
 CS student @ University of Florida | Software Development Director @ SHPE UF
+
 ## <img src = "./assets/zeldawindwaker.gif">
+[gif credits](https://www.tumblr.com/zelda-gifs/179576989744/asarge-pixel-windwaker)
 </div>
 
+<!-- -->
 ## <img src="./assets/aboutme.png" width="32" height="32">About Me
 
 -  Studying Computer Science at the University of Florida

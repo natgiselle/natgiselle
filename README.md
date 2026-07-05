@@ -3,7 +3,7 @@
 
 # Hi! I'm Natalie ≽(-⩊-マ≼
 CS student @ University of Florida | Software Development Director @ SHPE UF
-
+## <img src = "./assets/zeldawindwaker.gif">
 </div>
 
 ## <img src="./assets/aboutme.png" width="32" height="32">About Me
@@ -12,7 +12,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 -  Currently building **SeriesLogd** — a TV show tracker inspired by Letterboxd
 -  Learning C++, JavaScript, and Japanese
 -  Interested in software engineering roles at companies like Nintendo and Spotify
--  When I'm not coding: making music, gaming, thrifting, vinyl collecting
+-  When I'm not coding I'm: making music, gaming, thrifting, vinyl collecting, or playing soccer
 
 ## Tech Stack
 
@@ -25,8 +25,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 <!-- Note: verify these shield.io badge slugs/logos are current before using -->
 
-## ## <img src="./assets/pin.png" width="32" height="32" />Featured Project
-Featured Project
+## <img src="./assets/pin.png" width="32" height="32" />Featured Project
 
 **[SeriesLogd](https://github.com/natgiselle/serieslogd)** — A TV show tracking web app built with HTML/CSS/JS, using the TVmaze API. Inspired by Letterboxd.
 

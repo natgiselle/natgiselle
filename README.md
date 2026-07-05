@@ -36,7 +36,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 **[SeriesLogd](https://github.com/natgiselle/serieslogd)** — A TV show tracking web app built with HTML/CSS/JS, using the TVmaze API. Inspired by Letterboxd.
 
-## Connect with Me
+## <img src="./assets/images/connectwithme.png" width="32" height="32">Connect with Me
 
 - LinkedIn: **[Tap here](https://www.linkedin.com/in/natalie-g-ortiz)**
 <!-- 

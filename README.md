@@ -25,7 +25,8 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 <!-- Note: verify these shield.io badge slugs/logos are current before using -->
 
-## Featured Project
+## ## <img src="./assets/pin.png" width="32" height="32" /> Featured Project
+Featured Project
 
 **[SeriesLogd](https://github.com/natgiselle/serieslogd)** — A TV show tracking web app built with HTML/CSS/JS, using the TVmaze API. Inspired by Letterboxd.
 

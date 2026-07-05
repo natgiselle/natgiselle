@@ -8,7 +8,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 [gif credits](https://www.tumblr.com/zelda-gifs/179576989744/asarge-pixel-windwaker)
 </div>
 
-<!-- -->
+<!-- created my own mini pixel art images for these symbols below using piskelapp.com -->
 ## <img src="./assets/images/aboutme.png" width="32" height="32"> About Me
 
 -  Studying Computer Science at the University of Florida
@@ -19,7 +19,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 ## <img src="./assets/images/techstack.png" width="32" height="32"> Tech Stack
 
-<!-- Replace with actual badges for languages/tools you use -->
+<!-- my languages -->
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -39,8 +39,3 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 ## <img src="./assets/images/connectwithme.png" width="32" height="32"> Connect with Me
 
 - LinkedIn: **[Tap here](https://www.linkedin.com/in/natalie-g-ortiz)**
-<!-- 
-Optional: GitHub stats widgets exist via third-party services.
-Search "github readme stats" to find the current recommended service
-and grab the exact embed markdown from their site — don't guess at the syntax.
--->

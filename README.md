@@ -4,12 +4,12 @@
 # Hi! I'm Natalie ≽(-⩊-マ≼
 CS student @ University of Florida | Software Development Director @ SHPE UF
 
-## <img src = "./assets/zeldawindwaker.gif">
+## <img src = "./assets/images/zeldawindwaker.gif">
 [gif credits](https://www.tumblr.com/zelda-gifs/179576989744/asarge-pixel-windwaker)
 </div>
 
 <!-- -->
-## <img src="./assets/aboutme.png" width="32" height="32">About Me
+## <img src="./assets/images/aboutme.png" width="32" height="32"> About Me
 
 -  Studying Computer Science at the University of Florida
 -  Currently building **SeriesLogd** — a TV show tracker inspired by Letterboxd
@@ -17,18 +17,21 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 -  Interested in software engineering roles at companies like Nintendo and Spotify
 -  When I'm not coding I'm: making music, gaming, thrifting, vinyl collecting, or playing soccer
 
-## Tech Stack
+## <img src="./assets/images/techstack.png" width="32" height="32"> Tech Stack
 
 <!-- Replace with actual badges for languages/tools you use -->
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+## ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+## ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <!-- Note: verify these shield.io badge slugs/logos are current before using -->
 
-## <img src="./assets/pin.png" width="32" height="32" />Featured Project
+## <img src="./assets/images/pin.png" width="32" height="32" /> Featured Project
 
 **[SeriesLogd](https://github.com/natgiselle/serieslogd)** — A TV show tracking web app built with HTML/CSS/JS, using the TVmaze API. Inspired by Letterboxd.
 

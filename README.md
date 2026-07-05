@@ -6,7 +6,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 </div>
 
-## About Me
+## <img src="./assets/aboutme.png" width="32" height="32">About Me
 
 - 🎓 Studying Computer Science at the University of Florida
 - 💻 Currently building **SeriesLogd** — a TV show tracker inspired by Letterboxd
@@ -25,7 +25,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 <!-- Note: verify these shield.io badge slugs/logos are current before using -->
 
-## ## <img src="./assets/pin.png" width="32" height="32" /> Featured Project
+## ## <img src="./assets/pin.png" width="32" height="32" />Featured Project
 Featured Project
 
 **[SeriesLogd](https://github.com/natgiselle/serieslogd)** — A TV show tracking web app built with HTML/CSS/JS, using the TVmaze API. Inspired by Letterboxd.

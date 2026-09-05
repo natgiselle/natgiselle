@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi! I'm Natalie ≽(-⩊-マ≼
-# こんにちわ！わたしはなたりいおるちずです。
+# こんにちわ！わたしはなたりいおるていずです。
 CS student @ University of Florida | Software Development Director @ SHPE UF
 
 ## <img src = "./assets/images/zeldawindwaker.gif">

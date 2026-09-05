@@ -14,9 +14,10 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 -  Studying Computer Science at the University of Florida
 -  Currently building **SeriesLogd** — a TV show tracker inspired by Letterboxd
--  Learning C++, JavaScript, and Japanese
--  Interested in software engineering roles at companies like Nintendo and Spotify
+-  Currently Learning TypeScript and Japanese
+-  Interested in software engineering roles involving full-stack development, game design, web development, and much more!
 -  When I'm not coding I'm: making music, gaming, thrifting, vinyl collecting, or playing soccer
+-  I make my own pixel art and love painting/drawing!
 
 ## <img src="./assets/images/techstack.png" width="32" height="32"> Tech Stack
 

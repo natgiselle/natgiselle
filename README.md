@@ -3,6 +3,7 @@
 
 # Hi! I'm Natalie ≽(-⩊-マ≼
 # こんにちは! 私はナタリー•オルティズです。
+# Hola! Soy Natalie :3
 CS student @ University of Florida | Software Development Director @ SHPE UF
 
 ## <img src = "./assets/images/zeldawindwaker.gif">

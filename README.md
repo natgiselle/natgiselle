@@ -37,7 +37,7 @@ CS student @ University of Florida | Software Development Director @ SHPE UF
 
 ## <img src="./assets/images/pin.png" width="32" height="32" /> Featured Project
 
-**[ModPunch](https://github.com/kumarchak30/mod-punch)** — A Minecraft Mod website that allows users to freely find mods of their enjoyment without any hastle.
+**[ModPunch](https://github.com/kumarchak30/mod-punch)** — A Minecraft Mod website that allows users to freely find mods for their enjoyment without any hastle.
 
 ## <img src="./assets/images/connectwithme.png" width="32" height="32"> Connect with Me
 
